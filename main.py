@@ -12,7 +12,7 @@ import hou
 import os
 
 # change this directory to script folder
-base_dir = "/Users/gs/PycharmProjects/Mill_TD_Test"
+base_dir = "/Users/gs/PycharmProjects/Houdini_ChildNodes_renamer"
 hcr_ui_file = os.path.join(base_dir, "ui_files", "Houdini_Child_renamer.ui")
 
 # import Comm_func.py file
